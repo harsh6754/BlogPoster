@@ -29,3 +29,9 @@ At BlogPoster, we believe in the power of knowledge and the joy of discovery. Ou
 BlogPoster is more than just a website; it's a place to explore, learn, and connect with like-minded individuals. Join us on this exciting journey of discovery and personal growth.
 
 Start exploring today, and let the adventure begin!
+
+Home Page:-  ![Screenshot (94)](https://github.com/harsh6754/BlogPoster/assets/102807602/c4c9823b-9822-46e5-bc9a-920c459f615d)
+
+Login Page:-![Screenshot (92)](https://github.com/harsh6754/BlogPoster/assets/102807602/53af7ee5-8fcc-4591-8b91-ee571ab2c5ec)
+
+
